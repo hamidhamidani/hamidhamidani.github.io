@@ -19,5 +19,3 @@ social: True  # includes social icons at the bottom of the page
 
 I am a theoretical astrophysicist, Project Assistant Professor at the Astronomical Institute at Tohoku University. My research focuses on stellar cataclysmic events such as neutron star mergers and gamma-ray bursts. In particular, I study the dynamics of astrophysical jets launched by these explosive phenomena and their electromagnetic counterparts.
 
-
-
