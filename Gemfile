@@ -21,6 +21,7 @@ group :jekyll_plugins do
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
     gem 'classifier-reborn'
+    gem "jekyll-diagrams"
 end
 
 group :other_plugins do
