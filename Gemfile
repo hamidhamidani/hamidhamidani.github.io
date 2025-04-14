@@ -22,6 +22,7 @@ group :jekyll_plugins do
     gem 'jemoji'
     gem 'classifier-reborn'
     gem "jekyll-diagrams"
+    gem 'jekyll-target-blank'
 end
 
 group :other_plugins do
