@@ -3,10 +3,10 @@ layout: page
 title: Research
 permalink: /Research/
 description: Overview of my previous works.
-nav_order: 1
 nav: true
+nav_order: 1  # Adjust as needed
+importance: 1
 ---
-
 
 
 My research focuses on stellar cataclysmic events such as neutron star mergers (BNS), supernovae, and gamma-ray bursts (GRBs). In particular, I study the dynamics of astrophysical jets launched by these explosive phenomena and their electromagnetic counterparts. Below is a summary of my work (intended for non-experts).
