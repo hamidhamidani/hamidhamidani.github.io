@@ -4,7 +4,6 @@ title: Research
 permalink: /Research/
 description: Overview of my previous works.
 nav_order: 1
-importance: 2
 nav: true
 ---
 
