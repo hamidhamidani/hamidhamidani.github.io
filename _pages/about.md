@@ -12,7 +12,7 @@ profile:
     <p><a href="https://www.astr.tohoku.ac.jp/en/index.html" target="_blank">Astronomical Institute, Tohoku University</a></p>
     <p><a href="https://www.astr.tohoku.ac.jp/en/access/index.html" target="_blank">6-3 Aramaki, Aoba-ku, Sendai, Miyagi 980-8578, Japan</a></p>
     <p>Office: Science Complex C, Room S405</p>
-    <p>Email: <a href="mailto:hhamidani@astr.tohoku.ac.jp">hhamidani@astr.tohoku.ac.jp</a></p>
+    <p>Email: <a href="mailto:hhamidani@astr.tohoku.ac.jp">hhamidani{at}astr.tohoku.ac.jp</a></p>
 
 news: false  # includes a list of news items
 selected_papers: False # includes a list of papers marked as "selected={true}"
