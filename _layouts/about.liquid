@@ -32,6 +32,11 @@ layout: default
             cache_bust=true
           %}
         {% endif %}
+        {% if page.profile.address %}
+          <div class="profile-address mt-3">
+            {{ page.profile.address }}
+          </div>
+        {% endif %}
         {% if page.profile.more_info %}
           <div class="more-info">{{ page.profile.more_info }}</div>
         {% endif %}
