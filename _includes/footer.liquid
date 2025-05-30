@@ -1,8 +1,18 @@
+{% capture footer_icons %}
+  <div class="text-center mt-3">
+    <a href="mailto:{{ site.email }}" title="Email"><i class="fas fa-envelope fa-4x mx-3"></i></a>
+    <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" title="Google Scholar" target="_blank"><i class="ai ai-google-scholar ai-4x mx-3"></i></a>
+    <a href="https://orcid.org/{{ site.orcid_id }}" title="ORCID" target="_blank"><i class="ai ai-orcid ai-4x mx-3"></i></a>
+    <p class="mt-3 mb-4" style="font-size: 1rem;">If you want to reach me, send me an email!</p>
+  </div>
+{% endcapture %}
+
 {% capture footer_contents %}
   &copy; Copyright {{ site.time | date: '%Y' }}
   {{ site.first_name }}
   {{ site.middle_name }}
-  {{ site.last_name }}. {{ site.footer_text }}
+  {{ site.last_name }}.
+  {{ site.footer_text }}
   {% if site.impressum_path %}
     <a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Impressum</a>.
   {% endif %}
@@ -11,26 +21,15 @@
   {% endif %}
 {% endcapture %}
 
-{% if site.footer_fixed %}
-  <footer class="fixed-bottom" role="contentinfo">
-    <div class="container mt-0">
-      {{ footer_contents }}
-        <div class="text-center mt-2">
-          <a href="mailto:{{ site.email }}" title="Email"><i class="fas fa-envelope fa-4x mx-2"></i></a>
-          <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" title="Google Scholar" target="_blank"><i class="ai ai-google-scholar ai-4x mx-2"></i></a>
-          <a href="https://orcid.org/{{ site.orcid_id }}" title="ORCID" target="_blank"><i class="ai ai-orcid ai-4x mx-2"></i></a>
-          <p class="mt-2 mb-0" style="font-size: 0.95rem;">If you want to reach me, send me an email!</p>
-        </div>
-    </div>
-  </footer>
-{% else %}
-  <footer class="sticky-bottom mt-5" role="contentinfo">
-    {% if site.newsletter.enabled %}
-      {% include newsletter.liquid %}
-    {% endif %}
+<footer class="mt-5" role="contentinfo">
+  {% if site.newsletter.enabled %}
+    {% include newsletter.liquid %}
+  {% endif %}
 
-    <div class="container">
+  <div class="container text-center">
+    {{ footer_icons }}
+    <div class="text-muted small mt-4">
       {{ footer_contents }}
     </div>
-  </footer>
-{% endif %}
+  </div>
+</footer>
