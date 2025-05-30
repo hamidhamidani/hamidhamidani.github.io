@@ -8,10 +8,10 @@ profile:
   image: Hamid.png
   image_circular: false
   address: >
-    <p>Astronomical Institute, Tohoku University</p>
+    <p><a href="https://www.astr.tohoku.ac.jp/en/access/index.html" target="_blank">Astronomical Institute, Tohoku University</a></p>
     <p>6-3 Aramaki, Aoba-ku, Sendai, Miyagi 980-8578, Japan</p>
     <p>Office: Science Complex C, Room S405</p>
-    
+
 news: false  # includes a list of news items
 selected_papers: False # includes a list of papers marked as "selected={true}"
 social: False  # includes social icons at the bottom of the page
