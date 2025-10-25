@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: Hamid.png
+  image: Hamid_HP2.JPG
   image_circular: false
   address: >
     <div style="font-weight:bold; font-size: 1rem; margin:0;">Contact information:</div>
