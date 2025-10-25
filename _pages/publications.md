@@ -19,9 +19,10 @@ nav_order: 4
 </p>
 
 <h3> Lead-Author Publications </h3>
-{% bibliography -f papers %}
+{% bibliography -f papers --reverse %}
 
 <h3> Co-I Publications </h3>
-{% bibliography -f papers_coi %}
+{% bibliography -f papers_coi --reverse %}
+
 
 </div>
