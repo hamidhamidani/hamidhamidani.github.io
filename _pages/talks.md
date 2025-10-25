@@ -10,43 +10,58 @@ importance: 5
 
 ### Invited Talks
 
+- **Sep 2025** — *"Early kilonova emission as a tool to probe the central engine and map the merger ejecta"*  
+  the 5th Philip Wetton Workshop, University of Oxford, England
+
+- **May 2025** — *"Gamma-Ray Burst Jets in Circumstellar Material: Dynamics, Breakout, and Diversity of Transients"*  
+  Relativistic Fluids around Compact Objects, the Copernicus Astronomical Center, Warsaw, Poland
+
 - **Feb 2025** — *"LGRB Jets in Extended CSMs: Analytic Modeling and Recent Events"*  
-  Invited to speak at Exploring the Evolution of the Universe through Relativistic Phenomena V (相対論的現象で探る宇宙の進化Ⅴ), Awaji Island, Hyogo, Japan
+  Exploring the Evolution of the Universe through Relativistic Phenomena V (相対論的現象で探る宇宙の進化Ⅴ), Awaji Island, Hyogo, Japan
 
 - **Dec 2024** — *“Late Engine Activity in NS Mergers and Its Cocoon: An Alternative Scenario for the Blue KN”*  
-  Invited to speak at Workshop on GRBs and central engine powered transients, Playa del Carmen, Mexico
+  Workshop on GRBs and central engine powered transients, Playa del Carmen, Mexico
 
 - **Nov 2022** — *“Cocoon Emission in Neutron Star Mergers”*  
-  Invited to speak at Transient Workshop 2022, Hiroshima, Japan
+  Transient Workshop 2022, Hiroshima, Japan
 
 - **Jul 2019** — *“Jet Propagation and Cocoon Emission in Neutron Star Mergers and GW170817”*  
-  Invited to speak at Japan–Israel High-Energy Astrophysics Workshop, organized by RIKEN, Wako/Kobe Campuses, Japan
+  Japan–Israel High-Energy Astrophysics Workshop, organized by RIKEN, Wako/Kobe Campuses, Japan
 
 ### Seminars
 
-- **Jun 2023** — *“Cocoon Emission in Neutron Star Mergers”*  
-  Seminar at RESCEU, University of Tokyo, Japan
+- **Sep 2025** — *“Gamma-Ray Burst Jets in Circumstellar Material:  Dynamics, Breakout, and Diversity of Transients”*  
+  at Liverpool John Moores University, England
 
 - **Jun 2023** — *“Cocoon Emission in Neutron Star Mergers”*  
-  Seminar at Waseda University, Japan
+  at RESCEU, University of Tokyo, Japan
+
+- **Jun 2023** — *“Cocoon Emission in Neutron Star Mergers”*  
+  at Waseda University, Japan
 
 - **Apr 2023** — *“Cocoon Emission in Neutron Star Mergers”*  
-  Seminar at CRAAG Institute, Algeria
+  at CRAAG Institute, Algeria
 
 - **Feb 2023** — *“Cocoon Emission in Neutron Star Mergers”*  
-  AstroCoffee Seminar, Frankfurt University, Germany (online)
+  AstroCoffee Seminar, at Frankfurt University, Germany (online)
 
 - **Jun 2022** — *“The Cocoon Breakout & Emission in BNS Mergers”*  
-  Seminar at PSR Bi-Monthly Meeting, Hiroshima University, Japan (online)
+  at PSR Bi-Monthly Meeting, Hiroshima University, Japan (online)
 
 - **Feb 2021** — *“Jet Propagation in Binary Neutron Star Mergers & the Post-Breakout Cocoon”*  
-  Seminar at the Astronomical Institute, Tohoku University, Japan (online)
+  at the Astronomical Institute, Tohoku University, Japan (online)
 
 - **Feb 2016** — *“How to Explain Low-Luminosity GRBs with the Collapsar Model?”*  
-  Seminar at the Research Center for the Early Universe (RESCEU), University of Tokyo, Japan
+  at the Research Center for the Early Universe (RESCEU), University of Tokyo, Japan
 
 ### Contribution Talks
+  
+- **Sep 2025** — *"Gamma-Ray Burst Jets in Circumstellar Material:  Dynamics, Breakout, and Diversity of Transients"*  
+  UK & Ireland Transients meeting 2025, Warwick University, Coventry, England
 
+- **Aug 2025** — *"Gamma-Ray Burst Jets in Circumstellar Material:  Dynamics, Breakout, and Diversity of Transients"*  
+  Exploring Extreme Transients: Emerging Frontiers and Challenges, YITP, Kyoto University, Japan
+  
 - **Apr 2025** — *"Gamma-Ray Burst Jets in Circumstellar Material: Dynamics, Breakout, and Diversity of Transients"*  
   RESCU Workshop, The University of Tokyo, Japan
 
@@ -93,6 +108,9 @@ importance: 5
   Jet and Shock Breakouts in Cosmic Transients, YITP, Kyoto University, Japan
 
 ### Other Talks
+
+- **Sep 2025** — *"Gamma-Ray Burst Jets in Circumstellar Material:  Dynamics, Breakout, and Diversity of Transients"*  
+  The Physical Society of Japan, Annual Meeting 2025, Japan
 
 - **Nov 2024** — *“EP240414a: The tail/tale of a LGRB jet?”*  
   Supernova/Transient workshop 2024, Fukushima, Japan
