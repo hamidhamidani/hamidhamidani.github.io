@@ -249,9 +249,17 @@ scholar:
   source: /_bibliography/
   bibliography: papers.bib
   bibliography_template: bib
-  # Note: if you have latex math in your bibtex, the latex filter
-  # preprocessing may conflict with MathJAX if the latter is enabled.
-  # See https://github.com/alshedivat/al-folio/issues/357.
+
+  # Allow clickable links
+  link_to_doi: true        # ✅ make DOI clickable
+  link_to_url: true        # ✅ make arXiv/PDF links clickable
+  link_to_pdf: true        # ✅ if you add "pdf" field in .bib
+  use_raw_bibtex_entry: false
+
+  # Sorting (optional, helps reverse chronological order)
+  sort_by: year
+  order: descending
+
   bibtex_filters: [latex, smallcaps, superscript]
 
   replace_strings: true
@@ -267,9 +275,8 @@ scholar:
 filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, html, pdf, selected, supp, blog, code, poster, slides, website, preview]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
-max_author_limit: 3  # leave blank to always show all authors
-more_authors_animation_delay: 0# more authors are revealed on click using animation; smaller delay means faster animation
-
+max_author_limit: 3
+more_authors_animation_delay: 0
 
 # -----------------------------------------------------------------------------
 # Responsive WebP Images
