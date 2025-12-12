@@ -100,6 +100,9 @@ importance: 5
 
 ### Other Talks
 
+- **Nov 2025** — *“Gamma-Ray Burst Jets in Circumstellar Material: Dynamics and Diversity of Transients”*  
+  The third annual conference of Transformative Research Areas (A) for "Multimessenger Astrophysics”, Naruko Kanko Hotel, Japan
+
 - **Sep 2025** — *“Gamma-Ray Burst Jets in Circumstellar Material: Dynamics, Breakout, and Diversity of Transients”*  
   The Physical Society of Japan, Annual Meeting 2025, Japan
 
