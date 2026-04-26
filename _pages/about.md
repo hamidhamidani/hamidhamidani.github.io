@@ -10,19 +10,19 @@ profile:
   address: >
     <div style="font-weight:bold; font-size: 1rem; margin:0;">Contact information:</div>
     <div style="font-size: 0.9rem; margin:0;">
-      <a href="https://www.astr.tohoku.ac.jp/en/index.html" target="_blank">Astronomical Institute, Tohoku University</a>
+      <a href="https://www.fun.ac.jp/en/" target="_blank">Future University Hakodate</a>
     </div>
     <div style="font-size: 0.9rem; margin:0;">
-      <a href="https://www.astr.tohoku.ac.jp/en/access/index.html" target="_blank">6-3 Aramaki, Aoba-ku, Sendai, Miyagi 980-8578, Japan</a>
+      <a href="https://www.fun.ac.jp/en/access/" target="_blank">116-2 Kamedanakanocho, Hakodate, Hokkaido 041-0803, Japan</a>
     </div>
     <div style="font-size: 0.9rem; margin:0 0 0.5rem 0;">
-      Office: Science Complex C, Room S405
+      Office: 132
     </div>
     <div style="font-size: 0.9rem; margin:0;">
       Email: <a href="mailto:hhamidani@astr.tohoku.ac.jp">hhamidani[at]astr.tohoku.ac.jp</a>
     </div>
     <div style="font-size: 0.9rem; margin:0;">
-      Phone: <a>+81 22-795-6607</a>
+      Phone: <a>+81 138-34-6331</a>
     </div>
 
 
